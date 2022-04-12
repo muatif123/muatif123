@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muatif123" alt="muatif123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muatif.shaikh" target="blank"><img src="https://img.shields.io/twitter/follow/muatif.shaikh?logo=twitter&style=for-the-badge" alt="muatif.shaikh" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [www.github.com/muatif123](www.github.com/muatif123)
 
